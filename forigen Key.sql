@@ -16,6 +16,7 @@ INSERT INTO student3
 (106, "Ram", 23, 32000, "Nanital", 65, "Male"),
 (107, "Shyam", 28, 24000, "Rurdurpur", 76, "Male"),
 (108, "Virat", 29, 89000, "Haldwani", 77, "Male"),
-(109, "Mahesh", 21, 56000, "Nanital", 43, "Male"),
-(110, "Vijay", 22, 43000, "Ruedurpr", 67, "Male");
+(109, "Viraj", 25, 65000, "Haldwani", 47, "Male"),
+(110, "Mahesh", 21, 56000, "Nanital", 43, "Male"),
+(111, "Vijay", 22, 43000, "Ruedurpr", 67, "Male");
 TRUNCATE TABLE student3 RESTART IDENTITY;
